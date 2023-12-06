@@ -1,4 +1,4 @@
-package somepackage
+package somemodule
 
 func Add(a, b int) int {
 	return a + b
